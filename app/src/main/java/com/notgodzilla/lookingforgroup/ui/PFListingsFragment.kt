@@ -1,4 +1,4 @@
-package com.notgodzilla.lookingforgroup
+package com.notgodzilla.lookingforgroup.ui
 
 import android.os.Bundle
 import android.view.LayoutInflater
